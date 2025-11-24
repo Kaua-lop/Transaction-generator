@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+.gerador{
+    border: none;
+    background-color: rgb(255, 233, 233);
+    width: 800px;
+    border-radius: 40px;
+}
+
+.gerador h1{
+    font-size: 1.8em;
+    margin-top: 25px;
+    padding: 15px;
+    
+}
+.gerador h4{
+    font-size: 1em;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 5px;
+    color: #999;
+}
+
+.gerador button{
+    margin-bottom: 15px;
+    padding: 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: #92ff4a;
+    color: black;
+    transition: background-color 0.5s;
+}
+.gerador button:hover{
+    background-color: #66ff00;
+}
+
