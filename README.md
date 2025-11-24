@@ -23,9 +23,8 @@ A simple and interactive web application that generates philosophical quotes fro
 └── script.js     # JavaScript logic (Quote array and functions)
 ```
 ## 🔧 How to Run
-* **Clone the repository or download the files.**
-* **Open the folder containing the files.**
-* **Double-click index.html to open the project in your web browser.**
+* **Acess: https://kaua-lop.github.io/Transaction-generator/**
+
 
 ## 💻 Code Overview
 The application uses an array of objects to store the quotes and an event listener to trigger the generation function:
